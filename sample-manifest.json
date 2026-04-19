@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1ab9e979-ecaf-4a59-99a2-f47963c795dd",
+  "export_job_id": "f2018b4c-d449-4d29-932f-d68d1390fc60",
   "id_short": 369270,
-  "published_at": "2026-04-12T07:15:25Z",
+  "published_at": "2026-04-19T07:59:38Z",
   "repo_name": "all-restaurants-in-sacramento-california-us-sample-369270",
   "sample_asset_name": "beamstation_369270_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/369270/beamstation_369270_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 202,
-  "sample_sha256": "57dc5337da1bcb6419b53f8fba1145b0b1daa7e60a6aa108b1ba16a91b632063",
-  "sample_size_bytes": 692335,
-  "total_records": 2023
+  "sample_records": 200,
+  "sample_sha256": "de68aa975638976afa71d70acebb0200f9f3e125792910e5d239282a4f0e7f1e",
+  "sample_size_bytes": 643013,
+  "total_records": 2004
 }
