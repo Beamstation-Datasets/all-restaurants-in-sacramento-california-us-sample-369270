@@ -1,6 +1,6 @@
 # All Restaurants in Sacramento, California, US
 
-> Free BeamStation sample export with 174 rows and masked direct-contact fields.
+> Free BeamStation sample export with 202 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `369270` |
 | Location | Sacramento |
 | Category | Restaurants |
-| Full dataset size | 1,740 records |
-| Free sample size | 174 records (10.0%) |
-| Last export | 2026-04-23T10:42:11.072299+00:00 |
+| Full dataset size | 2,020 records |
+| Free sample size | 202 records (10.0%) |
+| Last export | 2026-04-30T10:55:47.189111+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-sacramento-california-us-sample-369270/releases/download/sample-latest/beamstation_369270_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
