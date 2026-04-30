@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Sacramento, California with a population of over 524k. Filtered by the Restaurants category group, this city-level export covers verified business profiles including ratings, reviews, contact details, and competitive metrics for the local dining market. Refreshed weekly.",
   "config_name": "All Restaurants in Sacramento, California, US",
-  "export_job_id": "a70fec58-3cbe-4c06-8383-646baef5b5ed",
+  "export_job_id": "f37d78da-a747-4ac8-b4e8-d154146f91bb",
   "github_org": "Beamstation-Datasets",
   "id_short": 369270,
   "location_name": "Sacramento",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-sacramento-california-us-sample-369270",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/369270/beamstation_369270_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_pct": 10.0,
-  "sample_records": 174,
-  "sample_sha256": "901ad339c57459d430bab065baafb4db0721a29492d1195db32cba66734f346f",
-  "sample_size_bytes": 625817,
-  "total_records": 1740,
-  "updated_at": "2026-04-23T10:42:11.072299+00:00"
+  "sample_records": 202,
+  "sample_sha256": "a6d62042c243896157c09d75018ce7161a05fa1bd8765f66a5543e4d80e4a778",
+  "sample_size_bytes": 734152,
+  "total_records": 2020,
+  "updated_at": "2026-04-30T10:55:47.189111+00:00"
 }
